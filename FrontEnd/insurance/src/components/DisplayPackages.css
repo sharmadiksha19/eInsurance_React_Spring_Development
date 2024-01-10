@@ -1,0 +1,16 @@
+.display-packages-container {
+    margin-top: 2rem;
+    padding-left: 8px;
+    text-align: center;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .package-card {
+    margin-right: 1rem; /* Adjust the margin as needed */
+    margin-bottom: 1rem;
+  }
+  

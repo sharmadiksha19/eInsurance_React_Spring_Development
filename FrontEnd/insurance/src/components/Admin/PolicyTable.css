@@ -1,0 +1,38 @@
+/* PolicyTable.css */
+
+.table-container {
+  margin-top: 20px;
+  overflow-x: auto; /* Add horizontal scrollbar if content overflows */
+}
+
+.ant-table {
+  max-width: 100%; /* Set the maximum width of the table */
+}
+
+.ant-table-thead th {
+  white-space: nowrap; /* Prevent text wrapping in table header cells */
+}
+
+.ant-table-tbody td {
+  white-space: nowrap; /* Prevent text wrapping in table body cells */
+}
+
+/* Custom styles for specific tables */
+.health-table.ant-table-wrapper {
+  clear: both;
+  max-width: 55%;
+}
+
+.renter-table.ant-table-wrapper {
+  clear: both;
+  max-width: 55%;
+}
+
+.vehicle-table.ant-table-wrapper {
+  clear: both;
+  max-width: 55%;
+}
+.css-dev-only-do-not-override-2q8sxy .ant-table-wrapper {
+  clear: both;
+  max-width: 65%;
+}

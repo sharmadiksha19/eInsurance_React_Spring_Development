@@ -1,0 +1,27 @@
+.info-page-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  }
+  
+  .info-page-heading {
+    color: #007bff;
+    text-align: center;
+  }
+  
+  .info-content {
+    margin-top: 20px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,22 @@
+.decision-making-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .centered-content {
+    text-align: center;
+  }
+  
+  .decision-making-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .decision-card {
+    width: 300px; /* Adjust as needed */
+  }
+  
